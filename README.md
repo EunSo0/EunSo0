@@ -25,8 +25,4 @@
   <img src="https://img.shields.io/badge/ReactQuery-0000123?style=flat-square&logo=ReactQuery&logoColor=white"/>
 
 
-<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username='EunSo0'&layout=compact&custom_title=My&nbsp;Language&nbsp;)](https://github.com/EunSo0/github-readme-stats)
-  
-
 
