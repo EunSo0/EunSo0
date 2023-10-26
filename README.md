@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=EunSo0&fontSize=90&animation=twinkling&fontAlign=75" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&&height=260&section=header&text=EunSo0&fontSize=90&animation=twinkling&fontAlign=75" />
 </p>
 
 
@@ -20,8 +20,8 @@
 ## ✨ Cowork tools ✨
 
 <div align="center">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 </div>
 
 <br />
