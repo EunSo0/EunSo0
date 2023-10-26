@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello%20I'm%20EunSoo!&desc=FrontEnd&fontSize=80&animation=fadeIn&fontColor=ffffff&fontAlignY=40&descAlignY=60" />
 
-<div align="left">
+<div align="center">
 
 ## 🌈 Follow Me 🌈
 <div style="display:flex; flex-direction:row;">
