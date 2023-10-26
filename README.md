@@ -27,6 +27,8 @@
 </div>
 
 
-
+<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username='EunSo0'&layout=compact&custom_title=My&nbsp;Language&nbsp;)](https://github.com/EunSo0/github-readme-stats)
+  
 
 
